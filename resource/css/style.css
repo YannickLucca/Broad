@@ -6,12 +6,13 @@ body {
   font-size: 70px;
   font-weight: bold;
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
   color: white;
 }
 #navigation{
   font-family:Helvetica;
   font-size: 18px;
-  color:white;
+  color: white;
 }
 #subheading {
   font-family:Helvetica;
